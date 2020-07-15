@@ -4,7 +4,7 @@
 
 My name is Leonid Podriz and here you can find out about me, my projects and experience.
 
-- 🔭 Now I am working on freelance projects and training of the Python programming language in [CyberBionic Systematics] (https://edu.cbsystematics.com/en).
+- 🔭 Now I am working on freelance projects and training of the Python programming language in [CyberBionic Systematics](https://edu.cbsystematics.com/en).
 - ⚡ My stack:
    - Python \ Django
    - JavaScript \ React & Redux \ Express
