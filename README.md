@@ -10,7 +10,7 @@ My name is Leonid Podriz and here you can find out about me, my projects and exp
    - JavaScript \ React & Redux \ Express
 - 🌱 Now I am developing towards compiled languages (C \ C ++) and working with relational databases.
 - 👯 In my free time I will be glad to work in a team on open-source projects.
-- 💬 Questions can be asked in [Telegram](https://t.me/leonidpodriz) or [Email](mailto:leonidpodriz@gmail.com)
+- 💬 Questions can be asked in [Telegram](https://t.me/kX9gU) or [Email](mailto:leonidpodriz@gmail.com)
 
 ### Привет! 👋
 
@@ -22,4 +22,4 @@ My name is Leonid Podriz and here you can find out about me, my projects and exp
   - JavaScript \ React & Redux \ Express
 - 🌱 Сейчас я развиваюсь в сторону компилируемых языков (C\C++) и работы с реляционными базами данных.
 - 👯 В свободное время буду рад поработать в команде на open-source проектах.
-- 💬 Вопросы можно задать в [Telegram](https://t.me/leonidpodriz) или [Email](mailto:leonidpodriz@gmail.com)
+- 💬 Вопросы можно задать в [Telegram](https://t.me/kX9gU) или [Email](mailto:leonidpodriz@gmail.com)
